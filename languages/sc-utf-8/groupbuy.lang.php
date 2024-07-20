@@ -1,0 +1,67 @@
+<?php
+#######################################
+###-----Ecmall (c) Comsenz! Inc-----                                  	   ##
+###   									   ##
+###     Developed by 1991coder					   ##
+### 							   		   ##
+###    Support: 1991coder@gmail.com  				   ##
+### 	   www.GiaiThuat.Org					   ##
+#######################################
+return array(
+    'no_such_groupbuy' => 'Các hoạt động không mua có',
+    'store_owner' => 'chủ tiệm',
+    'store_grade' => 'Cấp bậc',
+    'groupbuy' => 'nhóm Mua hàng',
+    'groupbuy_detail' => 'mua chi tiết',
+    'tel' => 'Liên hệ',
+    'lefttime' => 'Có đi từ ngày kết thúc của sự kiện:% d ngày% h% i phút giờ',
+    'no_desc' => 'không có',
+    'desc_on' => 'Các hoạt động',
+    'desc_cancel' => 'Các hoạt động đã được hủy bỏ',
+    'desc_end' => 'Hoạt động đã kết thúc, chờ đợi cho người bán để xác nhận việc hoàn thành',
+    'desc_finished' => 'Các hoạt động đã hoàn thành',
+    'spec' => 'Thông số kỹ thuật',
+    'default_spec' => 'kích thước mặc định',
+    'need_login' => 'Bạn cần phải mua đất để tham gia hoạt động',
+    'joined' => 'đã thiết lập',
+    'min_quantity' => 'Vào một số nhóm',
+    'start_end_time' => 'Thời gian bắt đầu',
+    'to' => 'để',
+    'max_per_user' => 'Việc mua của mỗi người',
+    'group_desc' => 'mua cho thấy',
+    'original_price' => 'Giá gốc',
+    'group_price' => 'mua hàng giá',
+    'buy_quantity' => 'Số lượng',
+    'joined_this_groupbuy' => 'Tôi tham gia vào Nhóm Mua hàng',
+    'exit_groupbuy' => 'mua hàng ra',
+    'join_user_info' => 'Cung cấp tình báo',
+    'join_tips' => 'Hãy điền các thông tin sau đây cho chủ sở hữu liên hệ với bạn',
+    'real_name' => 'Tên thật',
+    'tel' => 'Liên hệ',
+    'join_groupbuy' => 'mua hàng tham dự',
+    'group_log' => 'cung cấp các hồ sơ',
+    'no_groupbuy_log' => 'Cung cấp không có hồ sơ',
+    'invalid_quantity' => 'Số lượng bạn nhập không chính xác',
+    'fill_join_user_info' => 'Vui lòng điền tên liên lạc chính xác và điện thoại',
+    'groupbuy_qa' => 'mua hàng tư vấn',
+    'hide_name' => 'Bài viết vô danh',
+    'submit_message' => 'Tư vấn phát hành',
+    'content_not_null' => 'Nội dung không thể để trống',
+    'max_script' => 'Bạn có thể nhập tối đa 255 ký tự',
+    'question_content' => 'Tư vấn nội dung',
+    'question_successful' => 'Tư vấn thành công.' ,
+    'error_max_per_user' => 'Tập đoàn Mua mua lên đến mảnh %s cho mỗi người',
+    'store_reply' => 'chủ phản ứng',
+    'confirm_exit' => 'Bạn có chắc chắn muốn mua các hoạt động?',
+    'wanner_qa' => 'Tôi muốn tham khảo ý kiến',
+    'buy' => 'mua hàng',
+    'qa_email' => 'E-mail',
+    'groupbuy_goods_closed' => 'Các hoạt động của mặt hàng này đã bị cấm, xin vui lòng liên hệ với người quản trị với các trung tâm mua',
+    'fill_quantity' => 'Xin vui lòng nhập số lượng',
+    'short_of' => 'Tệ hơn nữa',
+    'login_to_comment'  => 'Bạn cần phải &nbsp;[<a href="index.php?app=member&act=login">Đăng nhập</a>]&nbsp;Có thể được công bố chỉ sau khi tham khảo ý kiến',
+    'guest_comment_disabled' => 'Không cho phép người thăm để xuất bản tư vấn',
+    'join_groupbuy_successed' => 'Tham gia vào mua thành công.',
+    'exit_groupbuy_successed' => 'Mua hàng ra thành công.',
+);
+?>

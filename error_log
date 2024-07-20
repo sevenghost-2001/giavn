@@ -1,0 +1,2 @@
+[15-Aug-2011 10:55:54] PHP Warning:  include(/home/giasoc/public_html/gianhang3/data/config.inc.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/giasoc/public_html/gianhang3/eccore/ecmall.php on line 1809
+[15-Aug-2011 10:55:54] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/giasoc/public_html/gianhang3/data/config.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/giasoc/public_html/gianhang3/eccore/ecmall.php on line 1809

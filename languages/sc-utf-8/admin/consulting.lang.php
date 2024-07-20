@@ -1,0 +1,27 @@
+<?php
+return array(
+    'consulting' => 'Tư vấn',
+    'asker' => 'Người hỏi',
+    'time' => 'Gửi lúc',
+    'delete' => 'Xóa',
+    'goods' => 'Tên sản phẩm',
+    'guest' => 'Khách',
+    'content' => 'Nội dung',
+    'drop_failed' => 'Xóa thất bại',
+    'drop_successful' => 'Xóa thành công',
+    'type' => 'Loại',
+    'ask' => 'Tư vấn',
+    'reply' => 'Trả lời',
+    'drop_confirm' => 'Bạn có chắc chắn xóa nhưng lời tư vấn hàng hóa!',
+    'drop_reason' => 'Lý do xóa',
+    'to_qa_list' => 'Quay lại',
+    'drop_goodsqa_notice' => 'Xóa thông báo tư vấn',
+    'admin_drop_your_goodsqa' => 'Admin xóa yêu cầu tư vấn sản phẩm của bạn: %s %s %s %s',
+    'reason_is' => 'Lý do là :%s',
+    'content_is' => 'Nội dung',
+    'item_name' => 'Tên đối tượng',
+    'goods' => 'Hàng hóa',
+    'groupbuy' => 'Nhóm quản lý mua bán',
+    'reply_content' => 'Chủ đối tác phản ứng',
+);
+?>
